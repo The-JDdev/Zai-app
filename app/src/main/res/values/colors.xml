@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AMOLED cinematic palette -->
+    <color name="amoled_black">#FF000000</color>
+    <color name="deep_blue">#FF0A2540</color>
+    <color name="crimson_red">#FFDC143C</color>
+    <color name="neon_yellow">#FFFFE600</color>
+    <color name="emerald_green">#FF00C853</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_surface">#FF0B0B0B</color>
+</resources>
